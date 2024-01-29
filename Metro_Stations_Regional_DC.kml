@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Metro_Stations_Regional" id="Metro_Stations_Regional">
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="LINE" type="string"></SimpleField>
+	<SimpleField name="TRAININFO_URL" type="string"></SimpleField>
+	<SimpleField name="WEB_URL" type="string"></SimpleField>
+	<SimpleField name="GIS_ID" type="string"></SimpleField>
+	<SimpleField name="MAR_ID" type="int"></SimpleField>
+	<SimpleField name="GLOBALID" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="CREATOR" type="string"></SimpleField>
+	<SimpleField name="CREATED" type="string"></SimpleField>
+	<SimpleField name="EDITOR" type="string"></SimpleField>
+	<SimpleField name="EDITED" type="string"></SimpleField>
+	<SimpleField name="SE_ANNO_CAD_DATA" type="string"></SimpleField>
+</Schema>
+<Folder><name>Metro_Stations_Regional</name>
+  <Placemark>
+	<name>Branch Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4704 OLD SOPER ROAD, SUITLAND, MD</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F11|Branch Ave</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/branch-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_35</SimpleData>
+		<SimpleData name="GLOBALID">{92A8B776-C7DD-4E1A-A9BF-83DBBFE3320F}</SimpleData>
+		<SimpleData name="OBJECTID">641</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9114664634741,38.8264541240316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Braddock Road</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">700 N. WEST ST., ALEXANDRIA, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C12|Braddock Road</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/braddock-rd.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_36</SimpleData>
+		<SimpleData name="GLOBALID">{29FC24FF-2132-4F11-9D55-00ED0AD62B0E}</SimpleData>
+		<SimpleData name="OBJECTID">642</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0536698633194,38.8141514352384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King St-Old Town</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1900 KING STREET, ALEXANDRIA, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C13|King St-Old Town</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/king-street.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_37</SimpleData>
+		<SimpleData name="GLOBALID">{AC34C280-68C2-473F-88C6-7178859F27F1}</SimpleData>
+		<SimpleData name="OBJECTID">643</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0608134995665,38.8065938834049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eisenhower Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2400 EISENHOWER AVENUE, ALEXANDRIA, VA</SimpleData>
+		<SimpleData name="LINE">yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C14|Eisenhower Avenue</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/eisenhower-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_38</SimpleData>
+		<SimpleData name="GLOBALID">{C137D724-61A0-4191-A166-14CADEF67A07}</SimpleData>
+		<SimpleData name="OBJECTID">644</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0708766830918,38.8004332142391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2701 HUNTINGTON AVENUE, ALEXANDRIA, VA</SimpleData>
+		<SimpleData name="LINE">yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C15|Huntington</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/huntington.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_39</SimpleData>
+		<SimpleData name="GLOBALID">{68ACB463-D755-47C0-8907-AF039EDA5A8E}</SimpleData>
+		<SimpleData name="OBJECTID">645</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0752080838784,38.7939236159681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anacostia</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1101 HOWARD ROAD SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F06|Anacostia</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/anacostia.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_40</SimpleData>
+		<SimpleData name="MAR_ID">294866</SimpleData>
+		<SimpleData name="GLOBALID">{9F18B9CF-3BD8-4F44-8E93-945E4094B4BF}</SimpleData>
+		<SimpleData name="OBJECTID">646</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9953730128321,38.8629708967766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern Market</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">725 PENNSYLVANIA AVENUE SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D06|Eastern Market</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/eastern-market.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_41</SimpleData>
+		<SimpleData name="MAR_ID">316432</SimpleData>
+		<SimpleData name="GLOBALID">{1DC8CD5F-3F86-4D31-BF06-CF5BACDD10D8}</SimpleData>
+		<SimpleData name="OBJECTID">647</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9960034023081,38.8846300451652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Potomac Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1400 POTOMAC AVENUE SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D07|Potomac Ave</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/potomac-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_42</SimpleData>
+		<SimpleData name="MAR_ID">316349</SimpleData>
+		<SimpleData name="GLOBALID">{71C3B56E-28AF-4969-BC06-3BF7FA3848EB}</SimpleData>
+		<SimpleData name="OBJECTID">648</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9854975917707,38.8812710576686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium-Armory</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">290 19TH STREET SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D08|Stadium-Armory</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/stadium-armory.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_43</SimpleData>
+		<SimpleData name="MAR_ID">316351</SimpleData>
+		<SimpleData name="GLOBALID">{809642E3-BB43-4F8E-884F-294C98299B54}</SimpleData>
+		<SimpleData name="OBJECTID">649</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9770911712712,38.8867168752895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhode Island Ave-Brentwood</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">801 RHODE ISLAND AVENUE NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B04|Rhode%20Island%20Ave-Brentwood</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/rhode-island-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_44</SimpleData>
+		<SimpleData name="MAR_ID">316413</SimpleData>
+		<SimpleData name="GLOBALID">{F115102F-4192-48E5-9937-F3903C8CD50F}</SimpleData>
+		<SimpleData name="OBJECTID">650</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9959391944564,38.9210674808595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minnesota Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4120 MINNESOTA AVENUE NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D09|Minnesota Ave</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/minnesota-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_45</SimpleData>
+		<SimpleData name="MAR_ID">316352</SimpleData>
+		<SimpleData name="GLOBALID">{A37E238C-D6C1-4D31-BC6A-8658C4D16EB0}</SimpleData>
+		<SimpleData name="OBJECTID">651</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9467499947779,38.8991990121813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Ness-UDC</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4230 CONNECTICUT AVENUE NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A06|Van%20Ness-UDC</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/van-ness.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_46</SimpleData>
+		<SimpleData name="MAR_ID">316424</SimpleData>
+		<SimpleData name="GLOBALID">{AB085E4E-6BEE-46F6-B9DE-CA9F0B43BABC}</SimpleData>
+		<SimpleData name="OBJECTID">652</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0629884805507,38.9432730819699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cleveland Park</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3514 CONNECTICUT AVENUE NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A05|Cleveland Park</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/cleveland-park.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_47</SimpleData>
+		<SimpleData name="MAR_ID">277555</SimpleData>
+		<SimpleData name="GLOBALID">{981A997C-18E7-4EF9-B2D5-4CD16CD5318B}</SimpleData>
+		<SimpleData name="OBJECTID">653</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0580448171052,38.9347706829249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Columbia Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3030 14TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E04|Columbia Heights</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/columbia-hghts.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_48</SimpleData>
+		<SimpleData name="MAR_ID">294815</SimpleData>
+		<SimpleData name="GLOBALID">{4E383C34-8A11-4A48-B948-B8A0597F0446}</SimpleData>
+		<SimpleData name="OBJECTID">654</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0325544073219,38.9278457591984</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spring Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1576 SPRING HILL ROAD VIENNA, VA 22182</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N04|Spring%20Hill</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/spring-hill.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_49</SimpleData>
+		<SimpleData name="GLOBALID">{B7A1620C-B527-45F6-9C79-45CF95BD95BD}</SimpleData>
+		<SimpleData name="OBJECTID">655</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2415603517124,38.9289596276567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greensboro</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">8305 LEESBURG PIKE VIENNA, VA 22182</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N03|Greensboro</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/greensboro.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_50</SimpleData>
+		<SimpleData name="GLOBALID">{C854F20C-52BC-4DFC-830A-A3924CC352B2}</SimpleData>
+		<SimpleData name="OBJECTID">656</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.233880199548,38.9209631790513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tysons</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1943 CHAIN BRIDGE ROAD MCLEAN, VA 22102</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N02|Tysons%20Corner</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/tysons.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_51</SimpleData>
+		<SimpleData name="GLOBALID">{C20F7ACA-3301-4036-AA2F-8AE7EC6E2775}</SimpleData>
+		<SimpleData name="OBJECTID">657</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2217180330483,38.9206820540508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McLean</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1824 DOLLEY MADISON BOULIVARD MCLEAN, VA 22102</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N01|McLean</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/mclean.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_52</SimpleData>
+		<SimpleData name="GLOBALID">{DE828471-044E-4009-BFEB-9F09AD06D261}</SimpleData>
+		<SimpleData name="OBJECTID">658</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2100812932053,38.9245295516699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Carrollton</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4700 GARDEN CITY DRIVE, NEW CARROLLTON, MD</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D13|New Carrollton</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/new-carrollton.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_70</SimpleData>
+		<SimpleData name="GLOBALID">{5E6AA600-FF45-4585-BBAA-856853D9899D}</SimpleData>
+		<SimpleData name="OBJECTID">659</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8718435273078,38.9477926575059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Landover</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3000 PENNSY DRIVE, HYATTSVILLE, MD</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D12|Landover</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/landover.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_71</SimpleData>
+		<SimpleData name="GLOBALID">{9DD26505-CB95-4ECF-9F70-F918DF136D7F}</SimpleData>
+		<SimpleData name="OBJECTID">660</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8912002135252,38.9335140325296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cheverly</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">5501 COLUMBIA PARK, CHEVERLY, MD 
+</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D11|Cheverly</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/cheverly.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_72</SimpleData>
+		<SimpleData name="GLOBALID">{57853466-E3C1-4581-956F-A4B4E6DB386B}</SimpleData>
+		<SimpleData name="OBJECTID">661</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9166302968683,38.9166396483886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Downtown Largo</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">9000 LOTTSFORD ROAD, LARGO, MD</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#G05|Largo Town Center</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/downtown-largo.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_73</SimpleData>
+		<SimpleData name="GLOBALID">{7B93BA76-A584-48EF-8C50-B1CF39E97A89}</SimpleData>
+		<SimpleData name="OBJECTID">662</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8445538708846,38.9006075165335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NoMa-Gallaudet U</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1301 2ND STREET NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B35|NoMa-Gallaudet U</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/new-york-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_74</SimpleData>
+		<SimpleData name="MAR_ID">316364</SimpleData>
+		<SimpleData name="GLOBALID">{CE6374C5-74C1-4321-84FD-78DF92E8BC98}</SimpleData>
+		<SimpleData name="OBJECTID">663</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0030227264183,38.9070240007291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosslyn</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1850 N. MOORE STREET, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C05|Rosslyn</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/rosslyn.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_75</SimpleData>
+		<SimpleData name="GLOBALID">{BFDCCA71-8337-4C9C-B666-D04DEBD0D74C}</SimpleData>
+		<SimpleData name="OBJECTID">664</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0709109849919,38.8959868801064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arlington Cemetery</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1000 NORTH MEMORIAL DRIVE, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">blue</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C06|Arlington Cemetery</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/arlington-cemetery.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_76</SimpleData>
+		<SimpleData name="GLOBALID">{2D2B14DD-F8ED-4C26-B99C-A07DFCD10AD2}</SimpleData>
+		<SimpleData name="OBJECTID">665</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0628124255369,38.8846946403712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dupont Circle</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1525 20TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A03|Dupont Circle</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/dupont-circle.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_77</SimpleData>
+		<SimpleData name="GLOBALID">{A2575E22-F3EC-4FBD-9D9F-A2533EB3ABDF}</SimpleData>
+		<SimpleData name="OBJECTID">666</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0434166516056,38.9096058451658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pentagon</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2 SOUTH ROTARY ROAD, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C07|Pentagon</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/pentagon.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_78</SimpleData>
+		<SimpleData name="GLOBALID">{1F781087-2E29-44DA-BC00-AF784039FE7B}</SimpleData>
+		<SimpleData name="OBJECTID">667</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0537179660692,38.8694704803745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crystal City</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1750 SOUTH CLARK ST., ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C09|Crystal City</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/crystal-city.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_79</SimpleData>
+		<SimpleData name="GLOBALID">{70F6FDA2-F3E3-4F64-8D9E-6DE354C07F7C}</SimpleData>
+		<SimpleData name="OBJECTID">668</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0502921005754,38.8579120973493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navy Yard-Ballpark</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1155 NEW JERSEY AVENUE SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F05|Navy Yard-Ballpark</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/navy-yard.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_80</SimpleData>
+		<SimpleData name="MAR_ID">310434</SimpleData>
+		<SimpleData name="GLOBALID">{2C674F9C-CE73-4523-B02E-59C1664409AC}</SimpleData>
+		<SimpleData name="OBJECTID">669</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0050879292944,38.8764888672489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McPherson Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1402 I STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C02|McPherson Square</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/mcpherson-sq.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_81</SimpleData>
+		<SimpleData name="MAR_ID">316430</SimpleData>
+		<SimpleData name="GLOBALID">{FB63C8B0-54DE-4EB9-BCC1-D7BC05301F13}</SimpleData>
+		<SimpleData name="OBJECTID">670</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0336364604538,38.9013405831796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaw-Howard U</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1801 7TH ST NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E02|Shaw-Howard%20U</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/shaw-howard.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_82</SimpleData>
+		<SimpleData name="MAR_ID">310410</SimpleData>
+		<SimpleData name="GLOBALID">{CD8CE6FF-4382-4668-A87A-1BD781562BB3}</SimpleData>
+		<SimpleData name="OBJECTID">671</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.021913986205,38.9134846603419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southern Avenue</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1411 SOUTHERN AVENUE, TEMPLE HILLS, MD</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F08|Southern%20Avenue</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/southern-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_83</SimpleData>
+		<SimpleData name="GLOBALID">{1DB66F55-54F9-4151-B089-92E0C287DD62}</SimpleData>
+		<SimpleData name="OBJECTID">672</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9750564052962,38.841093556641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greenbelt</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">5717 GREENBELT METRO DRIVE, GREENBELT, MD</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E10|Greenbelt</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/greenbelt.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_84</SimpleData>
+		<SimpleData name="GLOBALID">{E8AB7FE9-199E-458D-A82D-F3AD208546D6}</SimpleData>
+		<SimpleData name="OBJECTID">673</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9110598299777,39.0111536734921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tenleytown-AU</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4501 WISCONSIN AVENUE NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A07|Tenleytown-AU</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/tenleytown.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_85</SimpleData>
+		<SimpleData name="MAR_ID">294846</SimpleData>
+		<SimpleData name="GLOBALID">{6581A6F8-18F1-4277-BB96-720298CB096D}</SimpleData>
+		<SimpleData name="OBJECTID">674</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0795896310761,38.9488592292971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Falls Church</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">7040 HAYCOCK ROAD, FALLS CHURCH, VA</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K06|West%20Falls%20Church-VT/UVA</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/west-falls-church.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_86</SimpleData>
+		<SimpleData name="GLOBALID">{A2A12536-FD0D-425C-998D-28414AEB443E}</SimpleData>
+		<SimpleData name="OBJECTID">675</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1890971592787,38.900788331407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wiehle-Reston East</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1862 WIEHLE AVENUE RESTON, VA 20190</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N06|Wiehle-Reston%20East</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/wiehle-reston.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_53</SimpleData>
+		<SimpleData name="GLOBALID">{C848030E-1D8D-4599-A966-404F23B5525B}</SimpleData>
+		<SimpleData name="OBJECTID">676</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.3400622192864,38.9477406642851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>College Park-U of Md</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4931 CALVERT ROAD, COLLEGE PARK, MD</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E09|College Park-U of MD</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/college-park.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_54</SimpleData>
+		<SimpleData name="GLOBALID">{430ACADE-D35D-4988-B813-37EC8EE1A724}</SimpleData>
+		<SimpleData name="OBJECTID">677</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9281272420476,38.9786414397642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capitol Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">133 CENTRAL AVENUE, CAPITOL HEIGHTS, MD</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#G02|Capitol Heights</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/capitol-hghts.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_55</SimpleData>
+		<SimpleData name="GLOBALID">{1BBABA9D-DEBE-4CF4-95A4-27A01A05A052}</SimpleData>
+		<SimpleData name="OBJECTID">678</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.911810364184,38.889473645299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morgan Boulevard</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">300 GARRETT MORGAN BLVD., LANDOVER, MD</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#G04|Morgan Boulevard</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/morgan-blvd.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_56</SimpleData>
+		<SimpleData name="GLOBALID">{DBEE6F8C-40E8-4BAF-95BE-6B6B9EB8E332}</SimpleData>
+		<SimpleData name="OBJECTID">679</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8680770044389,38.8938427191441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Georgia Ave-Petworth</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3750 GEORGIA AVENUE NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E05|Georgia Ave-Petworth</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/georgia-ave.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_57</SimpleData>
+		<SimpleData name="MAR_ID">316437</SimpleData>
+		<SimpleData name="GLOBALID">{410B651B-44E7-447F-9304-D86D700B58D7}</SimpleData>
+		<SimpleData name="OBJECTID">680</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0234631914466,38.9374424240925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Takoma</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">327 CEDAR STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B07|Takoma</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/takoma.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_58</SimpleData>
+		<SimpleData name="MAR_ID">294822</SimpleData>
+		<SimpleData name="GLOBALID">{DDF7F2C1-C5E0-487C-B715-9CBCA7C05B36}</SimpleData>
+		<SimpleData name="OBJECTID">681</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0181789867943,38.9760863329941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glenmont</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">12501 GEORGIA AVENUE, SILVER SPRING, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B11|Glenmont</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/glenmont.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_59</SimpleData>
+		<SimpleData name="GLOBALID">{79EB246F-D44F-4B85-825A-F2400F42A60D}</SimpleData>
+		<SimpleData name="OBJECTID">682</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0535596637348,39.061791583367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wheaton</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">11171 GEORGIA AVENUE, SILVER SPRING, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B10|Wheaton</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/wheaton.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_60</SimpleData>
+		<SimpleData name="GLOBALID">{D9987F99-C00F-4B45-912E-FE8B7AD5DE03}</SimpleData>
+		<SimpleData name="OBJECTID">683</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0501093553323,39.037534956767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Glen</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">9730 GEORGIA AVENUE, FOREST GLEN, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B09|Forest Glen</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/forest-glen.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_61</SimpleData>
+		<SimpleData name="GLOBALID">{54992DEC-7A45-41D1-A18F-5C34488DE26C}</SimpleData>
+		<SimpleData name="OBJECTID">684</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0429188530732,39.0149620841024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Silver Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">8400 COLESVILLE ROAD, SILVER SPRING, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B08|Silver%20Spring</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/silver-spring.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_62</SimpleData>
+		<SimpleData name="GLOBALID">{A043879B-FDB8-4ED8-B0A1-868CC0D23D58}</SimpleData>
+		<SimpleData name="OBJECTID">685</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0310201199989,38.9939571798124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brookland-CUA</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">890 MONROE STREET NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B05|Brookland-CUA</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/brookland.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_63</SimpleData>
+		<SimpleData name="MAR_ID">316412</SimpleData>
+		<SimpleData name="GLOBALID">{94BB3DA7-228A-4F2C-8E8A-27CBD49E525C}</SimpleData>
+		<SimpleData name="OBJECTID">686</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9945365631974,38.9332187855283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Totten</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">201 GALLOWAY STREET NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red, green,yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B06,E06|Fort Totten</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/fort-totten.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_64</SimpleData>
+		<SimpleData name="MAR_ID">316355</SimpleData>
+		<SimpleData name="GLOBALID">{D90DDFC9-78BD-4E0A-8E80-B0EFBC2A216F}</SimpleData>
+		<SimpleData name="OBJECTID">687</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0022053584327,38.9518545652334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hyattsville Crossing</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3575 EAST WEST HIGHWAY, HYATTSVILLE, MD</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E08|Prince%20George%27s%20Plaza</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/hyattsville-xing.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_65</SimpleData>
+		<SimpleData name="GLOBALID">{5866086B-8A11-459A-B1C2-05F5E82D723C}</SimpleData>
+		<SimpleData name="OBJECTID">688</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9558837759004,38.9653932479519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Hyattsville</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2700 HAMILTON ST., HYATTSVILLE, MD</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E07|West%20Hyattsville</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/west-hyattsville.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_66</SimpleData>
+		<SimpleData name="GLOBALID">{D4B50126-B2F9-4594-9C87-4D47B5EF5E42}</SimpleData>
+		<SimpleData name="OBJECTID">689</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9695789467579,38.9550479702246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benning Road</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4500 CENTRAL AVENUE NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#G01|Benning Road</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/benning-rd.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_67</SimpleData>
+		<SimpleData name="MAR_ID">316344</SimpleData>
+		<SimpleData name="GLOBALID">{C01836FD-40E3-4F82-96E5-9FB187FFADE3}</SimpleData>
+		<SimpleData name="OBJECTID">690</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9383671261511,38.8909834637487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison Road-Seat Pleasant</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">100 ADDISON ROAD S., CAPITOL HEIGHTS, MD</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#G03|Addison Road-Seat Pleasant</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/addison-rd.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_68</SimpleData>
+		<SimpleData name="GLOBALID">{300B1FC4-3F26-4E1B-8100-449F4FDF0D9B}</SimpleData>
+		<SimpleData name="OBJECTID">691</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:34:07+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8941101539901,38.886755605367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deanwood</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4720 MINNESOTA AVENUE NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D10|Deanwood</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/deanwood.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_69</SimpleData>
+		<SimpleData name="MAR_ID">294855</SimpleData>
+		<SimpleData name="GLOBALID">{6061BAEB-8A04-4ADF-9BE1-BB380134CAE7}</SimpleData>
+		<SimpleData name="OBJECTID">692</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9352590411544,38.9081862878493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shady Grove</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">15903 SOMERVILLE DRIVE, DERWOOD, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A15|Shady%20Grove</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/shady-grove.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_1</SimpleData>
+		<SimpleData name="GLOBALID">{CB2ED552-145A-48D5-B75A-381A26F2665B}</SimpleData>
+		<SimpleData name="OBJECTID">693</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1646296769645,39.1199351503111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rockville</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">251 HUNGERFORD DRIVE, ROCKVILLE, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A14|Rockville</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/rockville.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_2</SimpleData>
+		<SimpleData name="GLOBALID">{64FD589C-0CAA-4E52-BCF4-D3E26D2E60F4}</SimpleData>
+		<SimpleData name="OBJECTID">694</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1461276738984,39.0843294264428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Twinbrook</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1600 CHAPMAN AVENUE, ROCKVILLE, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A13|Twinbrook</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/twinbrook.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_3</SimpleData>
+		<SimpleData name="GLOBALID">{6BF87597-FF6A-4653-98C8-4180660FAAAA}</SimpleData>
+		<SimpleData name="OBJECTID">695</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1208202771458,39.0624754671516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Bethesda</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">5500 MARINELLI ROAD, ROCKVILLE, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A12|White%20Flint</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/north-bethesda.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_4</SimpleData>
+		<SimpleData name="GLOBALID">{385DF698-2B22-4093-B590-6858BF0EB5B6}</SimpleData>
+		<SimpleData name="OBJECTID">696</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1128321810407,39.0481591702013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grosvenor-Strathmore</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">10300 ROCKVILLE PIKE, BETHESDA, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A11|Grosvenor-Strathmore</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/grosvenor.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_5</SimpleData>
+		<SimpleData name="GLOBALID">{985A54CE-ADC2-4C63-9213-6EA837AF9D8F}</SimpleData>
+		<SimpleData name="OBJECTID">697</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1038520380558,39.0292767594452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">8810 ROCKVILLE PIKE, BETHESDA, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A10|Medical Center</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/medical-center.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_6</SimpleData>
+		<SimpleData name="GLOBALID">{339E5342-621E-4364-BE17-C2FD15F9BC13}</SimpleData>
+		<SimpleData name="OBJECTID">698</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0969546046393,39.0000642881526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethesda</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">7450 WISCONSIN AVENUE, BETHESDA, MD</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A09|Bethesda</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/bethesda.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_7</SimpleData>
+		<SimpleData name="GLOBALID">{9DBE962E-A573-4AA2-B70A-CB042C8B2DA1}</SimpleData>
+		<SimpleData name="OBJECTID">699</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0941315044796,38.9844014611561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foggy Bottom-GWU</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">890 23RD STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C04|Foggy Bottom-GWU</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/foggy-bottom.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_8</SimpleData>
+		<SimpleData name="MAR_ID">316428</SimpleData>
+		<SimpleData name="GLOBALID">{2110D899-622B-4CA0-B263-1AF57B2ECEED}</SimpleData>
+		<SimpleData name="OBJECTID">700</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0502800325331,38.900705794771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Court House</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2100 WILSON BLVD, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K01|Court House</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/court-house.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_9</SimpleData>
+		<SimpleData name="GLOBALID">{9CEA453B-9DF3-4B96-AB11-B876AE364823}</SimpleData>
+		<SimpleData name="OBJECTID">701</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.087133535354,38.8901833132666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clarendon</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3100 WILSON BLVD, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K02|Clarendon</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/clarendon.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_10</SimpleData>
+		<SimpleData name="GLOBALID">{6D9051DA-B64E-47A9-8EB3-D5A224D3AA21}</SimpleData>
+		<SimpleData name="OBJECTID">702</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0953964050181,38.8867126201147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Falls Church</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2001 N. SYCAMORE ST., ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K05|East Falls Church</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/e-falls-church.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_11</SimpleData>
+		<SimpleData name="GLOBALID">{1EB4FFA9-A362-4BB0-9BAD-DF185BA1DA1B}</SimpleData>
+		<SimpleData name="OBJECTID">703</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1568853457423,38.8859609449643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virginia Square-GMU</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3600 FAIRFAX DRIVE, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K03|Virginia%20Square-GMU</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/virginia-sq.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_12</SimpleData>
+		<SimpleData name="GLOBALID">{D5FEE399-7F0A-4FE2-8BE7-464D6C1F03EC}</SimpleData>
+		<SimpleData name="OBJECTID">704</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1029796030295,38.8833739318872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ballston-MU</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4230 FAIRFAX DRIVE, ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K04|Ballston-MU</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/ballston.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_13</SimpleData>
+		<SimpleData name="GLOBALID">{F2D9DE79-73EB-4508-9806-B79A473C7FF3}</SimpleData>
+		<SimpleData name="OBJECTID">705</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1131711469735,38.8821906532756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut West</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">841 17TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C03|Farragut West</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/farragut-west.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_14</SimpleData>
+		<SimpleData name="MAR_ID">316429</SimpleData>
+		<SimpleData name="GLOBALID">{25C55138-1B94-4DF5-A6B1-03D1ED0EE428}</SimpleData>
+		<SimpleData name="OBJECTID">706</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0406977056811,38.9013206802049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut North</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1720 L STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A02|Farragut North</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/farragut-north.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_15</SimpleData>
+		<SimpleData name="MAR_ID">310416</SimpleData>
+		<SimpleData name="GLOBALID">{C4D34D29-F8A8-4859-BB97-1EE2A2A7BCB1}</SimpleData>
+		<SimpleData name="OBJECTID">707</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0397031175789,38.9032097327115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodley Park-Zoo/Adams Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2622 CONNECTICUT AVENUE NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A04|Woodley%20Park-Zoo/Adams%20Morgan</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/woodley-park.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_16</SimpleData>
+		<SimpleData name="MAR_ID">316421</SimpleData>
+		<SimpleData name="GLOBALID">{CBBC7160-559F-4764-BB31-D5F1BD37E2DB}</SimpleData>
+		<SimpleData name="OBJECTID">708</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0524203164271,38.9250929274801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L'Enfant Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">600 MARYLAND AVENUE SW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">grn, yllw, orange, blue, slvr</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F03,D03|L'Enfant Plaza</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/lenfant-plaza.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_17</SimpleData>
+		<SimpleData name="MAR_ID">316347</SimpleData>
+		<SimpleData name="GLOBALID">{5FF1D8F8-682F-4C3F-A7E1-AFDBFA297572}</SimpleData>
+		<SimpleData name="OBJECTID">709</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219107677673,38.8848455113141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smithsonian</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1201 JEFFERSON DRIVE SW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D02|Smithsonian</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/smithsonian.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_18</SimpleData>
+		<SimpleData name="MAR_ID">310412</SimpleData>
+		<SimpleData name="GLOBALID">{154957A0-B0D8-4A64-B67A-4C2362855975}</SimpleData>
+		<SimpleData name="OBJECTID">710</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0280685200691,38.888026485866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archives-Navy Memorial-Penn Quarter</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">300 7TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F02|Archives-Navy Memorial-Penn Quarter</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/archives.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_19</SimpleData>
+		<SimpleData name="MAR_ID">316356</SimpleData>
+		<SimpleData name="GLOBALID">{DAE064AB-7AEB-43F8-A7F8-2EAAE5DF96FC}</SimpleData>
+		<SimpleData name="OBJECTID">711</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219166722109,38.8936730087045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterfront</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">399 M STREET SW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F04|Waterfront</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/waterfront.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_20</SimpleData>
+		<SimpleData name="MAR_ID">294877</SimpleData>
+		<SimpleData name="GLOBALID">{FC35DD4F-8435-44B3-A84D-20018D1B1890}</SimpleData>
+		<SimpleData name="OBJECTID">712</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0175074905943,38.8764696487723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ronald Reagan Washington National Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2400 S. SMITH BLVD., ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C10|Ronald%20Reagan%20Washington%20National%20Airport</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/national-airport.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_21</SimpleData>
+		<SimpleData name="GLOBALID">{33A2C8E0-A884-4755-ADC4-0A4333DA4EE9}</SimpleData>
+		<SimpleData name="OBJECTID">713</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0440445830322,38.8534241622286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Dorn Street</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">5690 EISENHOWER AVENUE, ALEXANDRIA, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#J02|Van%20Dorn%20Street</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/van-dorn-st.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_22</SimpleData>
+		<SimpleData name="GLOBALID">{4FC2A150-AEF2-4F63-AEFD-EA829A0FE261}</SimpleData>
+		<SimpleData name="OBJECTID">714</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1291138355294,38.7993154341623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Franconia-Springfield</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">6880 FRONTIER DRIVE, SPRINGFIELD, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#J03|Franconia-Springfield</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/franconia-sprngfld.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_23</SimpleData>
+		<SimpleData name="GLOBALID">{F4FE7EB0-D678-4608-9BF9-099E4872B7B1}</SimpleData>
+		<SimpleData name="OBJECTID">715</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1679725023397,38.7665296467617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Center SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">401 3RD STREET SW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D04|Federal Center SW</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/federal-ctr-sw.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_24</SimpleData>
+		<SimpleData name="MAR_ID">300374</SimpleData>
+		<SimpleData name="GLOBALID">{8C83D280-29AD-4512-B35D-608A5DD7E6AD}</SimpleData>
+		<SimpleData name="OBJECTID">716</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0158704987507,38.8850801388191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Judiciary Square</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">435 4TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B02|Judiciary Square</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/judiciary-sq.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_25</SimpleData>
+		<SimpleData name="MAR_ID">310427</SimpleData>
+		<SimpleData name="GLOBALID">{F0E2F0A6-BB95-4123-9E16-F911E1DD68A7}</SimpleData>
+		<SimpleData name="OBJECTID">717</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0166412393428,38.8960981035311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capitol South</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">355 1ST STREET SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D05|Capitol South</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/capitol-south.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_26</SimpleData>
+		<SimpleData name="MAR_ID">294860</SimpleData>
+		<SimpleData name="GLOBALID">{5335D849-DF0E-48BE-886E-6144FD0BE744}</SimpleData>
+		<SimpleData name="OBJECTID">718</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0051416983916,38.8850702849965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metro Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">607 13TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red, blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A01,C01|Metro Center</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/metro-center.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_27</SimpleData>
+		<SimpleData name="MAR_ID">294812</SimpleData>
+		<SimpleData name="GLOBALID">{B94FA0C9-F46B-4E54-9C8C-BD8AC05085A1}</SimpleData>
+		<SimpleData name="OBJECTID">719</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0280802835952,38.8983222591037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallery Pl-Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">625 9TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red, green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B01,F01|Gallery Pl-Chinatown</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/gallery-place.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_28</SimpleData>
+		<SimpleData name="MAR_ID">310428</SimpleData>
+		<SimpleData name="GLOBALID">{1EEA49F9-4E6A-4887-BE86-AD9BD23F079E}</SimpleData>
+		<SimpleData name="OBJECTID">720</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219176749195,38.8983245959171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt Vernon Sq 7th St-Convention Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">700 M STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E01|Mt Vernon Sq 7th St-Convention Center</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/mt-vernon-sq.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_29</SimpleData>
+		<SimpleData name="MAR_ID">294834</SimpleData>
+		<SimpleData name="GLOBALID">{1448F029-C1AB-4154-9D5D-C32ACAF7F65D}</SimpleData>
+		<SimpleData name="OBJECTID">721</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219166653772,38.9064446027096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>U Street/African-Amer Civil War Memorial/Cardozo</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1260 U STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#E03|U%20Street/African-Amer%20Civil%20War%20Memorial/Cardozo</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/u-street.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_30</SimpleData>
+		<SimpleData name="MAR_ID">316436</SimpleData>
+		<SimpleData name="GLOBALID">{2C7C68A8-E14F-40FF-A339-CB49D16C7563}</SimpleData>
+		<SimpleData name="OBJECTID">722</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0274981803226,38.9170101889241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">605 1ST STREET NE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#B03|Union%20Station</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/union-station.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_31</SimpleData>
+		<SimpleData name="MAR_ID">316417</SimpleData>
+		<SimpleData name="GLOBALID">{A3853FD5-F9E1-4A25-98AE-DA389F542437}</SimpleData>
+		<SimpleData name="OBJECTID">723</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0074165721463,38.8977738257845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Congress Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1300 ALABAMA AVENUE SE, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F07|Congress Heights</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/congress-hghts.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_32</SimpleData>
+		<SimpleData name="MAR_ID">316358</SimpleData>
+		<SimpleData name="GLOBALID">{4DE0AF79-EF92-4868-BBEB-F55DDD716743}</SimpleData>
+		<SimpleData name="OBJECTID">724</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.988514203498,38.8456654796109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naylor Road</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">3101 BRANCH AVENUE, TEMPLE HILLS, MD</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F09|Naylor Road</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/naylor-rd.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_33</SimpleData>
+		<SimpleData name="GLOBALID">{0329428A-B723-4D00-8F98-213C4C98F79F}</SimpleData>
+		<SimpleData name="OBJECTID">725</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9562649706452,38.8513091626592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suitland</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">4500 SILVER HILL ROAD, SUITLAND, MD</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#F10|Suitland</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/suitland.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_34</SimpleData>
+		<SimpleData name="GLOBALID">{AC0B6003-EC58-4CB9-ADC4-4D67525DBE5D}</SimpleData>
+		<SimpleData name="OBJECTID">726</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9318724121039,38.8439723329118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunn Loring-Merrifield</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2700 GALLOWS ROAD, VIENNA, VA</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K07|Dunn Loring-Merrifield</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/dunn-loring.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_87</SimpleData>
+		<SimpleData name="GLOBALID">{EA9BC989-D9F8-4DBD-96A0-CBBDCE34B72B}</SimpleData>
+		<SimpleData name="OBJECTID">727</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2271630195848,38.8836329114464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vienna/Fairfax-GMU</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2900 NUTLEY ST., FAIRFAX, VA</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#K08|Vienna/Fairfax-GMU</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/vienna.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_88</SimpleData>
+		<SimpleData name="GLOBALID">{F8BE82AE-77F1-490D-828A-5CC68146E9A5}</SimpleData>
+		<SimpleData name="OBJECTID">728</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2726246181647,38.8776088964297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">5337 WISCONSIN AVENUE NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#A08|Friendship Heights</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/friendship-hghts.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_89</SimpleData>
+		<SimpleData name="MAR_ID">303188</SimpleData>
+		<SimpleData name="GLOBALID">{0ACCBD99-2189-41AF-8DF7-9EE3D928A280}</SimpleData>
+		<SimpleData name="OBJECTID">729</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0849981129191,38.9594916697664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pentagon City</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">1250 SOUTH HAYES ST., ARLINGTON, VA</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C08|Pentagon City</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/pentagon-city.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_90</SimpleData>
+		<SimpleData name="GLOBALID">{E5515706-3B68-4BD8-BEB0-5F06ADE2C133}</SimpleData>
+		<SimpleData name="OBJECTID">730</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0595412155326,38.8618901641242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Triangle</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">350 12TH STREET NW, WASHINGTON, DC</SimpleData>
+		<SimpleData name="LINE">blue, orange, silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#D01|Federal Triangle</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/federal-triangle.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_91</SimpleData>
+		<SimpleData name="MAR_ID">316345</SimpleData>
+		<SimpleData name="GLOBALID">{D0D7FD22-7251-4825-AB18-55E5306155BC}</SimpleData>
+		<SimpleData name="OBJECTID">731</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0281342845236,38.8931886567079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reston Town Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">12023-A SUNSET HILLS RD, RESTON, VA 20190</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N07|Reston%20Town%20Center</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/reston.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_92</SimpleData>
+		<SimpleData name="GLOBALID">{40100193-2EF7-48D3-96B1-62801C250A23}</SimpleData>
+		<SimpleData name="OBJECTID">732</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.3601873993701,38.9527757884321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Herndon</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">585-A HERNDON PKY, HERNDON, VA 20170</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N08|Herndon</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/herndon.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_93</SimpleData>
+		<SimpleData name="GLOBALID">{1C5DABF0-3EBE-4B52-884A-6500900FFDDD}</SimpleData>
+		<SimpleData name="OBJECTID">733</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.3851804093812,38.9528287822189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Innovation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">13747-A SUNRISE VALLEY DR, HERNDON, VA 20171</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N09|Innovation%20Center</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/innovation-center.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_94</SimpleData>
+		<SimpleData name="GLOBALID">{44EC9DFA-82ED-49C0-8DAE-8FBFDF00B9E0}</SimpleData>
+		<SimpleData name="OBJECTID">734</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.4152974172659,38.9607657806805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Dulles International Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">44920 SAARINEN CIR, DULLES, VA 20166</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N10|Washington%20Dulles%20International%20Airport</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/washington-dulles.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_95</SimpleData>
+		<SimpleData name="GLOBALID">{92F12286-0EB1-4911-AB70-A246401F35A9}</SimpleData>
+		<SimpleData name="OBJECTID">735</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.4481504309557,38.9557917833063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loudoun Gateway</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">22505-A LOCK RIDGE RD, STERLING, VA 20166</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N11|Loudoun%20Gateway</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/loudoun.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_96</SimpleData>
+		<SimpleData name="GLOBALID">{23354791-732C-4601-A04F-1C3A9248BDD7}</SimpleData>
+		<SimpleData name="OBJECTID">736</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.4606874353316,38.9920477881129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashburn</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">43625-A CROSON LN, ASHBURN, VA 20147</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#N12|Ashburn</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/ashburn.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_97</SimpleData>
+		<SimpleData name="GLOBALID">{89C0E9DF-6D64-4795-90CC-801E9AE1ED4B}</SimpleData>
+		<SimpleData name="OBJECTID">737</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2022/11/30 15:32:57+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2022/11/30 15:32:57+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.4915394382761,39.0052907928184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Potomac Yard</name>
+	<ExtendedData><SchemaData schemaUrl="#Metro_Stations_Regional">
+		<SimpleData name="ADDRESS">2900 POTOMAC GREENS DRIVE, ALEXANDRIA, VA 22314 </SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+		<SimpleData name="TRAININFO_URL">https://www.wmata.com/js/nexttrain/nexttrain.html#C15|potomacyard</SimpleData>
+		<SimpleData name="WEB_URL">https://www.wmata.com/rider-guide/stations/potomac-yard.cfm</SimpleData>
+		<SimpleData name="GIS_ID">MetroStnFullPt_98</SimpleData>
+		<SimpleData name="GLOBALID">{D6425905-9518-4AB6-8DB4-FC66125BA95C}</SimpleData>
+		<SimpleData name="OBJECTID">961</SimpleData>
+		<SimpleData name="CREATOR">JLAY</SimpleData>
+		<SimpleData name="CREATED">2023/05/24 01:50:40+00</SimpleData>
+		<SimpleData name="EDITOR">JLAY</SimpleData>
+		<SimpleData name="EDITED">2023/05/24 03:07:32+00</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0464066739311,38.8340136904114</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
