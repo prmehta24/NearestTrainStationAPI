@@ -2,6 +2,7 @@ https://flask.palletsprojects.com/en/3.0.x/installation/ - Reference to start ve
 
 * Task 1 + Start of Task 2 - 5.5 hrs. 1 AM 1/31/24.
 * Task 2 complete - 6 hrs. 1:30 AM 1/31/24
+* Task 3 ongoing - 6.5 hrs. 2 AM 1/31/24
 
 Exposed function to find closest station to coordinates using Flask. Exposed a GET endpoint wherein lat, long can be passed in as parameters.
 

@@ -2,6 +2,8 @@ from fastkml import kml
 from geopy.distance import geodesic 
 from markupsafe import escape
 from flask import Flask, request
+from functools import lru_cache
+
 app = Flask(__name__)
 
 stations=[] #global variable for list of stations.
@@ -40,7 +42,11 @@ def formatStationResponse(station):
     #print("Nearest Station Response as GeoJSON: ",response)
     return response
 
-def getClosestStation(currentCoordinates, stations):
+@lru_cache(maxsize=None) #This is temp cache. Change to external caching mechanism.
+def getClosestStation(currentCoordinates): 
+    #To pass list to a cached function - convert to tuple. TODO.
+    global stations #use global stations variable in this function
+    print("Not cached. Searching for closest station.")
     nearest_station = min(stations, key=lambda station: geodesic(currentCoordinates, station["coordinates"]).miles)
     print("Nearest Station as Object: ",nearest_station)
     formattedResponse = formatStationResponse(nearest_station)
@@ -48,13 +54,12 @@ def getClosestStation(currentCoordinates, stations):
 
 @app.route('/closestStation')
 def returnClosestStationResponse():
-    global stations
     #Handle case where parameters are not given. TODO.
     lat  = request.args.get('lat', None)
     long = request.args.get('long', None)
     currentCoords = (lat, long)
     print("Coords to get closest station for: ",currentCoords)
-    closestStationResponse = getClosestStation(currentCoords, stations)
+    closestStationResponse = getClosestStation(currentCoords)
     return closestStationResponse
 
 #Handle default URLs. TODO.
