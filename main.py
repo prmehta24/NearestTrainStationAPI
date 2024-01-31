@@ -6,6 +6,8 @@ from functools import lru_cache
 
 app = Flask(__name__)
 
+#Write tests to confirm caching works and concurrent requests with same params dont process. TODO.
+
 stations=[] #global variable for list of stations.
 
 def parseSEPTAKMLfile():

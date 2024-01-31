@@ -1,0 +1,17 @@
+Regarding caching:
+* https://redis.io/docs/connect/clients/python/
+* https://redis.io/docs/install/install-stack/docker/
+* https://stackoverflow.com/questions/71186596/how-to-avoid-duplicate-processing-in-python-api-server#:~:text=In%20this%20way%2C%20you%20could,a%20similar%20approach%20to%20this.
+* https://stackoverflow.com/questions/65686318/sharing-python-objects-across-multiple-workers/65699375#65699375 - Tutorial on how to use Redis.
+* https://stackoverflow.com/questions/70651653/python-functools-lru-cache-shared-between-multiple-processes
+*  To reuse responses for nearby coordinates - https://stackoverflow.com/questions/23982096/caching-strategy-for-location-requests
+* To run Flask with multithreading - https://stackoverflow.com/questions/10938360/how-many-concurrent-requests-does-a-single-flask-process-receive
+* To deploy Flask - https://flask.palletsprojects.com/en/1.1.x/deploying/#deployment
+* Solution to Task 3 - https://medium.com/@mhrlife/avoid-duplicate-requests-while-filling-cache-98c687879f59
+* In case, we want to add a processing state for objects in cache - https://stackoverflow.com/questions/56174605/handling-with-concurrent-duplicate-requests
+* Another Task 3 question - https://softwareengineering.stackexchange.com/questions/446800/handling-simultaneous-duplicate-expensive-read-only-http-requests
+* sharing a variable with multiple processes - https://stackoverflow.com/questions/6832554/multiprocessing-how-do-i-share-a-dict-among-multiple-processes
+* https://stackoverflow.com/questions/43495986/combining-functools-lru-cache-with-multiprocessing-pool
+* use lock to make sure there aren't concurrent access to cache - https://stackoverflow.com/questions/71887507/caching-data-in-an-api-handling-concurrent-fast-requests
+* https://stackoverflow.com/questions/21156519/python-cache-memorize-and-thread-locking
+* How to use Redis as cache with Flask - https://flask-caching.readthedocs.io/en/latest/
